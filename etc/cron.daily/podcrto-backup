@@ -1,0 +1,3 @@
+#!/bin/bash -e
+
+chpst -u nobody:nogroup /code/backup.py
